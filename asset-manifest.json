@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.10d4e08a.css",
+    "main.js": "/static/js/main.d8d4083f.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/campusnest.png": "/static/media/campusnest.06acb3b87d1d2d50fd82.png",
+    "static/media/skinsync.png": "/static/media/skinsync.03138eafcc9fa5f1a6b1.png",
+    "static/media/hingetutors.png": "/static/media/hingetutors.2195f6d561b2f57f54fe.png",
+    "static/media/healthpack.png": "/static/media/healthpack.2326afd8f45e27f0ec73.png",
+    "static/media/medbox.png": "/static/media/medbox.386e83d97f6dd238aa05.png",
+    "static/media/cleanpaws.png": "/static/media/cleanpaws.524f360dd982ab4809e7.png",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/profpic.jpg": "/static/media/profpic.a2c15be1274a2397fc5f.jpg",
+    "static/media/elise-resume.pdf": "/static/media/elise-resume.8c420bf9858835499f75.pdf",
+    "static/media/bunny.jpg": "/static/media/bunny.d79af072bc9df7f26561.jpg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.10d4e08a.css.map": "/static/css/main.10d4e08a.css.map",
+    "main.d8d4083f.js.map": "/static/js/main.d8d4083f.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10d4e08a.css",
+    "static/js/main.d8d4083f.js"
+  ]
+}
