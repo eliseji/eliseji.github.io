@@ -27,8 +27,7 @@ function Projects() {
               isBlog={false}
               title="Campus Nest"
               description="A platform that provides university students a way to find and put up information about sub-leases/rentals, finding potential housemates, and saving paperwork. This all-in-one web-app saves the hassle of students looking for housing through social media."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/Shaun-L/CampusNest"
             />
           </Col>
 
@@ -38,8 +37,7 @@ function Projects() {
               isBlog={false}
               title="Health Pack"
               description="Health Pack is a 'health passport' that stores symptoms and medical records (allergies, diseases) in order to empower people with information about their own health. Our mission is to combat the problem of patient safety issues (misdiagnoses, miscommunication, etc.) that could easily be avoidable. "
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              ghLink="https://github.com/franciscotimoh/Health-Pack"
             />
           </Col>
 
@@ -49,8 +47,8 @@ function Projects() {
               isBlog={false}
               title="Clean Paws Recyling Bin"
               description="An automated recycling bin that is able to perform live object-detection through a web-cam and a trained YOLOv5 model and a customed dataset from Roboflow. Utilized Raspberry Pi, ultrasonic sensors, motors, Cv2 module, and Python in order to connect the hardware and software components."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/jkuang15/clean-paws"
+              // demoLink="https://editor.soumya-jit.tech/"              
             />
           </Col>
 
@@ -60,8 +58,7 @@ function Projects() {
               isBlog={false}
               title="Hinge Tutors"
               description="Hinge Tutors is web-app that connects previous students who already took the class (preferably with the same professor) and students who are currently taking the class seeking for more help with course material. Hinge tutors connects tutors and students through a swiping mechanism where students can choose their tutors based upon preference, schedule, professors, etc."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
-              demoLink="https://plant49-ai.herokuapp.com/"
+              ghLink="https://github.com/kristenwon/AthenaMatch2024"
             />
           </Col>
 
@@ -72,8 +69,7 @@ function Projects() {
               title="SkinSync"
               description="An on-the-go app that allows users to scan skin products and see if the product is compatiable with their skin type and current skin-care routine. Utilized OpenAI for ingredient analysis and Firestore for a real-time data collection."
               // Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention.
-              ghLink="https://github.com/soumyajit4419/AI_For_Social_Good"
-              // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
+              ghLink="https://github.com/gayathriy22/SkinSync"
             />
           </Col>
 
@@ -83,8 +79,7 @@ function Projects() {
               isBlog={false}
               title="MedBox"
               description="MedBox is a health and prescription assistance app, which allows the user to choose and order a drug based on their symptoms, search and order a specific drug, and pick-up and refill their prescription. Utilized ApiMedic API to take symptoms as input and internally determine the diagnosis."
-              ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
-              // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 2
+              ghLink="https://github.com/soumyajit4419/https://github.com/dssikdar/MedBox"
             />
           </Col>
         </Row>

@@ -137,7 +137,7 @@ const ThreeScene = () => {
     let object; // To store the loaded 3D model
     let mouseX = window.innerWidth / 2;
     let mouseY = window.innerHeight / 2;
-    const objToRender = 'sad_toaster';
+    const objToRender = 'cute_bunny';
 
     renderer.setClearColor(0xffffff); // Set background color to white
     renderer.setClearColor(0x000000); // Set background color to white
@@ -149,10 +149,10 @@ const ThreeScene = () => {
       function (gltf) {
         // This function runs when the model is successfully loaded
         object = gltf.scene;
-        object.scale.set(300, 300, 300); // Adjust the scale of the model
+        object.scale.set(200, 200, 200); // Adjust the scale of the model
         // object.scale.set(10, 10, 10); // Adjusted scale for visibility
         object.position.x = -700;
-        object.position.y = -500;
+        object.position.y = -300;
 
 
         scene.add(object); // Add the model to the scene
@@ -189,9 +189,9 @@ const ThreeScene = () => {
     const animate = () => {
       requestAnimationFrame(animate);
 
-      if (object && objToRender === "sad_toaster") {
+      if (object && objToRender === "cute_bunny") {
         object.rotation.y = -3 + mouseX / window.innerWidth * 3;
-        object.rotation.x = -0.5 + mouseY * 2.5 / window.innerHeight;
+        object.rotation.x = -0.2 + mouseY * 2.5 / window.innerHeight;
       }
 
       renderer.render(scene, camera); // Render the scene from the perspective of the camera
