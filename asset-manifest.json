@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.10d4e08a.css",
-    "main.js": "/static/js/main.d8d4083f.js",
+    "main.css": "/static/css/main.1a7d5e38.css",
+    "main.js": "/static/js/main.263a298b.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/campusnest.png": "/static/media/campusnest.06acb3b87d1d2d50fd82.png",
@@ -13,17 +13,17 @@
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/profpic.jpg": "/static/media/profpic.a2c15be1274a2397fc5f.jpg",
-    "static/media/elise-resume.pdf": "/static/media/elise-resume.8c420bf9858835499f75.pdf",
+    "static/media/resumeee-3.pdf": "/static/media/resumeee-3.eb44d438b885b34f5cff.pdf",
     "static/media/bunny.jpg": "/static/media/bunny.d79af072bc9df7f26561.jpg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
-    "main.10d4e08a.css.map": "/static/css/main.10d4e08a.css.map",
-    "main.d8d4083f.js.map": "/static/js/main.d8d4083f.js.map",
+    "main.1a7d5e38.css.map": "/static/css/main.1a7d5e38.css.map",
+    "main.263a298b.js.map": "/static/js/main.263a298b.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10d4e08a.css",
-    "static/js/main.d8d4083f.js"
+    "static/css/main.1a7d5e38.css",
+    "static/js/main.263a298b.js"
   ]
 }
